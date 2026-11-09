@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), Hong Kong University of Science and Technology, where I am pursuing a Ph.D. in Computer Science (2024 - Present). I am advised by Professor Junxian He, who also previously advised me during my undergraduate studies at Shanghai Jiao Tong University. I received my B.Eng. degree from Shanghai Jiao Tong University in June 2024, where I was awarded the Zhiyuan Honor Scholarship.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, where I am pursuing a Ph.D. in Computer Science (2024 - Present). I am advised by Professor Junxian He, who also previously advised me during my undergraduate studies at Shanghai Jiao Tong University. I received my B.Eng. degree from Shanghai Jiao Tong University in June 2024, where I was awarded the Zhiyuan Honor Scholarship.
 
 My research focuses on natural language processing and machine learning.
 
@@ -51,15 +51,15 @@ Publications
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
   * Junteng Liu (first author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
   * arXiv, 2025
-  * [Details](/publication/2025-01-02-synlogic-synthesizing-verifiable-reasoning-data-at-scale/) | Code available on GitHub
+  * Code available on GitHub | [Details](/publication/2025-01-02-synlogic-synthesizing-verifiable-reasoning-data-at-scale/)
 * **On the Perception Bottleneck of VLMs for Chart Understanding**
   * Junteng Liu (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
   * arXiv, 2025
-  * [Details](/publication/2025-01-01-on-the-perception-bottleneck-of-vlms-for-chart-understanding/) | Code available on GitHub (`Vision4Chart`)
+  * Code available on GitHub (`Vision4Chart`) | [Details](/publication/2025-01-01-on-the-perception-bottleneck-of-vlms-for-chart-understanding/)
 * **On the Universal Truthfulness Hyperplane Inside LLMs**
   * Junteng Liu (first author), Shiqi Chen, Yu Cheng, Junxian He
   * EMNLP 2024
-  * [Details](/publication/2024-01-01-on-the-universal-truthfulness-hyperplane-inside-llms/) | Code available on GitHub (`Universal_Truthfulness_Hyperplane`)
+  * Code available on GitHub (`Universal_Truthfulness_Hyperplane`) | [Details](/publication/2024-01-01-on-the-universal-truthfulness-hyperplane-inside-llms/)
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**
   * Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
   * ICML 2024
